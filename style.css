@@ -1,0 +1,97 @@
+body {
+    font-family: 'OCR A Std', monospace;
+    line-height: 2.6;
+    margin: 20px;
+    color: #333;
+    background-color: #f9f9f9;
+}
+
+header {
+    text-align: center;
+}
+
+.container {
+    display: inline-block;
+    color: white;
+    background-color: black;
+    padding: 40px;
+    margin-top: -20px;
+    font-weight: bold;
+}
+
+.container .nome {
+    font-size: 1.8em;
+    margin: 5px 0;
+    color: #FFF;
+}
+
+.container p {
+    font-size: 24px;
+    margin: 0;
+    color: #FFF;
+}
+
+
+.info {
+     font-size: 1.2em;
+    margin: 0;
+    color: #555;
+    margin-top: 20px;
+}
+
+.info a:visited{
+     color: inherit;
+}
+
+.section {
+    max-width: 80%;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    color: #000;
+}
+
+.section h2 {
+    font-size: 1.6em;
+    margin-bottom: 10px;
+}
+
+.section p{
+    margin-left: 35px;
+    font-size: 18px;
+    color: #000;
+}
+
+.section ul li{
+    margin-bottom: 20px;
+}
+
+.section dt{
+    font-weight: bold;
+    font-size: 1.5em;
+    margin-bottom: 30px;
+    margin-left: 35px;
+}
+
+.section dd{
+     font-size: 1.4em;
+    margin-bottom: 30px;
+    margin-left: 60px;
+}
+
+.section a:visited{
+     color: inherit;
+}
+
+.skills {
+    color: black;
+    margin: 0;
+    padding-left: 20px;
+    margin-left: 15px;
+}
+
+ul li {
+    margin-bottom: 5px;
+     font-size: 1.4em;
+    margin-left: 15px;
+}
+
